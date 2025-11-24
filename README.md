@@ -38,7 +38,7 @@ A modern, responsive web application for managing patient records with a clean a
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/EmiMoralesM/patient-management-light-it.git
    cd patient-data-management-lightit
    ```
 
@@ -99,4 +99,4 @@ https://63bedcf7f5cfc0949b634fc8.mockapi.io/users
 
 ---
 
-**Built with ❤️ using React and Vite**
+**Built with ❤️ **
